@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "aa3540073aecf2edb49597812dca9eb1"
+build_time: [1637776925, 785628000]
+inputs:
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/ViewController.swift": [1637774889, 975978825]
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/InvoiceLine.swift": [1637066714, 447641970]
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/Invoice.swift": [1637766806, 822610981]
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/InvoiceModel.swift": [1637768184, 442037855]
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/DateUtils.swift": [1637770002, 258236887]
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/InvoiceCellViewModel.swift": [1637767993, 550826150]
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/InvoiceTableViewCell.swift": [1637668947, 501762518]
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/AppDelegate.swift": [1637067881, 653559496]
+  "/Users/shireeshmarla/XeroProgrammingExercise/XeroProgrammingExercise/SceneDelegate.swift": [1588629781, 0]
